@@ -1,0 +1,6 @@
+framework module Pods_HomeWork_N1__4__HomeWork_N1__4_UITests {
+  umbrella header "Pods-HomeWork N1 (4)-HomeWork N1 (4)UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
